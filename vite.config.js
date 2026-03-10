@@ -15,6 +15,7 @@ export default defineConfig({
       '/files': 'http://localhost:3000',
       '/analytics': 'http://localhost:3000',
       '/health': 'http://localhost:3000',
+      '/simulation': 'http://localhost:3000',
     }
   }
 })
